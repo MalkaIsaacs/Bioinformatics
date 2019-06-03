@@ -1,4 +1,4 @@
 # Bioinformatics
-Bioinformatics tools for work with sequences, implemented using Python
+Bioinformatics tools for work with biological sequences, implemented using Python
 
 More details in each code file
